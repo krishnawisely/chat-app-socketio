@@ -15,8 +15,9 @@
    git clone https://github.com/krishnawisely/facedetection-js.git
    ```
   #### Step 2:
-   - Run application with following command
+   - Run application by using following command
    ```
+   npm i
    npm run start
    ```
 
