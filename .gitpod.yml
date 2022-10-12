@@ -5,6 +5,7 @@
 
 tasks:
   - init: npm i
-    command: sh post-commit-command.sh
+    command: |
+      sh post-commit-command.sh
 
 
