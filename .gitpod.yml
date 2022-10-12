@@ -4,9 +4,7 @@
 # Test updated 3
 
 tasks:
-  - init: 
-      npm install
-      sh /workspace/chat-app-socketio/post-commit-command.sh
+  - init: sh /workspace/chat-app-socketio/post-commit-command.sh
     command: npm run start
 
 
