@@ -6,7 +6,7 @@
 tasks:
   - init: 
       npm install
-      sh post-commit-command.sh
+      sh /workspace/chat-app-socketio/post-commit-command.sh
     command: npm run start
 
 
