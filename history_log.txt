@@ -1,0 +1,7 @@
+commit 7ed99a42db8c857e7cae32079566b3873c241240
+Author: Krishnamoorthy <krishna192168@gmail.com>
+Date:   Wed Oct 12 13:27:44 2022 +0000
+
+    sh file
+
+A	post-commit-command.sh
