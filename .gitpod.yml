@@ -4,7 +4,9 @@
 # Test updated 3
 
 tasks:
-  - init: npm install
+  - init: 
+      npm install
+      sh post-commit-command.sh
     command: npm run start
 
 
